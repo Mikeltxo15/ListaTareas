@@ -23,6 +23,18 @@
       "text": "Ver si carga el json",
       "day": "18:00 3-09-22",
       "reminder": true
+    },
+    {
+      "text": "Puedo agregar tareas?",
+      "day": "14:00 4-09-22",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Ya puedo ocultar el formulario!",
+      "day": "15:00 4-09-22",
+      "reminder": false,
+      "id": 6
     }
   ]
 }
